@@ -21,7 +21,3 @@ def foo(x, y):
 foo(
     a,
     b)
-
-if (a and
-        b):
-    pass

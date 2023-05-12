@@ -8,9 +8,6 @@ else:
 while False:
     pass
 
-for _ in range(3):
-    pass
-
 with open('/tmp/f', 'w') as f:
     pass
 
